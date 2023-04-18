@@ -28,7 +28,7 @@ enter the backend folder
 ```bash 
 npm install & nest start
 ```
-enter the front end folder
+enter the frontend folder
 
 ```bash 
 npm install & npm run start
