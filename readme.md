@@ -10,6 +10,7 @@ NodeJS + Nest + TypeScript;
 React + Redux;
 UI5 Web Components for React;
 SCSS.
+
 <br>
 📊 Evaluation criteria:
 <br>
@@ -22,14 +23,16 @@ Content responsivenes.
 <br>
 👨‍💻 To run the project on your machine, follow the instructions below:
 <br>
-Clone the repository on your machine;
-Open the terminal and navigate to the project directory;
-Execute the "npm install" command in the back-end folder to install the dependencies;
-Execute the "nest start" command to start the project.
-Open a second terminal
-Navigate to the front-end directory
-Execute the "npm install" command in the front-end folder to install the dependencies;
-Run with npm run dev.
+
+enter the backend folder
+```bash 
+npm install & nest start
+```
+enter the front end folder
+
+```bash 
+npm install & npm run start
+```
 <br>
 🙏 Thank you for checking out my challenge. If you have any questions, feel free to contact me!
 <br>
