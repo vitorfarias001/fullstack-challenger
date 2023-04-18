@@ -1,0 +1,89 @@
+//Color
+$color-primary: #ffffff;
+$color-secondary: #6c757d;
+$color-third: #c4c4c4;
+$color-fourth: rgba(28, 50, 90, 0.7);
+$color-fifth: rgba(255, 255, 255, 0.125);
+$color-sixth: rgb(30, 167, 185);
+$opacity-fasle: 0;
+$opacity-true: 1;
+$t-shadow-false:0;
+$shadow-light: 0 0 30px rgba(255, 255, 255, 0.6);
+$shadow-colorx-30: 0 0 30px rgba(255, 255, 255, 0.25);
+$shadow-color-30: 0 0 30px rgba(255, 255, 255, 0.45);
+$shadow-colorxl-30: 0 0 30px rgba(255, 255, 255, 0.55);
+$shadow-color-60: 0 0 60px rgba(255, 255, 255, 0.25);
+$shadow-colorx-60: 0 0 60px rgba(255, 255, 255, 0.35);
+$shadow-colorxl-60: 0 0 60px rgba(255, 255, 255, 0.4);
+$shadow-colorxxl-60: 0 0 60px rgba(255, 255, 255, 0.45);
+$shadow-color-100: 0 0 100px rgba(255, 255, 255, 0.1);
+$shadow-colorl-110:  0 0 110px rgba(255, 255, 255, 0.25);
+$shadow-color-110: 0 0 110px rgba(255, 255, 255, 0.1);
+$shadow-colorx-110: 0 0 110px rgba(255, 255, 255, 0.2);
+
+$t-text-shadow-false: 0; 
+
+//Fonts
+$font-family: "Helvetica Neue", sans-serif;
+$font-title: "Teko", sans-serif;
+$font-body: "Lato", sans-serif;
+$font-weight-bold: 800;
+$font-weight-medium: 700;
+
+
+//Animations & Effects
+$text-anim-name: text-flicker-in-glow;
+$text-anim-duration: 4s;
+$text-anim-timing: linear;
+$text-anim-fill: both;
+$text-anim-linear: linear both;
+$saturation: 131%;
+$trans-duration-2s: 0.2s;
+$trans-duration-3s: 0.3s;
+$trans-duration-4s: 0.4s;
+$trans-timing: ease;
+$trans-timing-out: ease-in-out;
+$trans-prop-all: all;
+$trans-prop-transform: transform;
+$trans-delay: 0s;
+$scale-factor: 1.02;
+
+
+// Dimensions
+$text-shadow-medium:30px;
+$btn-width: 160px;
+$smal-blur: 10px;
+$medium-blur: 25px;
+$smal-border: 5px;
+$smal-border-radius: 5px;
+$border-radius: 12px;
+$smal-border-width: 1px;
+$title-size: 70px;
+$font-size-smal: 14px;
+$font-size-medium: 16px;
+$font-size-large: 24px;
+$input-border-radius: 5px;
+$btn-padding:10px;
+$input-padding: 10px;
+$info-margin:40px;
+$hero-padding-top: 40px;
+$large-margin-top: 40px;
+$smal-margin-bottom:15px;
+$medium-margin-bottom: 20px;
+$large-margin-bottom: 40px;
+$medium-margin-top: 20px;
+$large-margin-right: 40px;
+$medium-margin-right: 20px;
+$smal-margin-right: 10px;
+$container-width: 1300px;
+$sidebar-width: 300px;
+$content-width: 800px;
+$smal-width: 400px;
+$smalxl-width:470px;
+$smalxx-width:370px;
+$smalx-width:130px;
+$media-small: 400px;
+$media-medium: 700px;
+$media-large: 800px;
+$media-xlarge: 900px;
+$media-xxlarge: 991px;
