@@ -14,11 +14,13 @@
 <br>
 
 NodeJS + Nest + TypeScript;
-React + Redux;
+
+React + Redux
+
 UI5 Web Components for React;
+
 SCSS.
 
-<br>
 
 📊 Evaluation criteria:
 
