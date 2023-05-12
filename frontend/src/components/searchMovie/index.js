@@ -63,7 +63,7 @@ const Search = () => {
                         <h2>{movie.title}</h2>
                         <span>
                             <strong>Actors: </strong>
-                            {movie.actor}
+                            {movie.actors}
                         </span>
                         <span>
                             <strong>Review: </strong>

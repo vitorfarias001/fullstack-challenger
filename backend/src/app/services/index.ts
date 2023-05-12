@@ -6,9 +6,10 @@ import { MovieDto, OmdbMovieResponse } from '../dto/index';
 export class MoviesService {
   async searchMovie(search: string): Promise<MovieDto> {
     const response = await axios.get<OmdbMovieResponse>(
-      `http://www.omdbapi.com/?t=${search}&plot=short&apikey=f95eb1c7`,
+      `https://www.omdbapi.com/?t=${search}&plot=short&apikey=f95eb1c7`,
     );
     const movie = response.data;
-    return new MovieDto(movie.Title, movie.Poster, movie.Actor);
+    console.log('movie =>', movie);
+    return new MovieDto(movie.Title, movie.Poster, movie.Actors);
   }
 }

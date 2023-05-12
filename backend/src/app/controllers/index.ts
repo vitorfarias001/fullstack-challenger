@@ -11,7 +11,7 @@ export class MoviesController {
     return {
       title: result.Title,
       poster: result.Poster,
-      actor: result.Actor,
+      actors: result.Actors,
     };
   }
 }
